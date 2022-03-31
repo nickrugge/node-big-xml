@@ -2,18 +2,16 @@
   "author": "John Hewson",
   "name": "big-xml",
   "description": "Lightweight XML parser for really big files (uses node-expat)",
-  "version": "1.0.0",
-  "homepage": "https://github.com/jahewson/node-big-xml",
+  "version": "1.0.1",
+  "homepage": "https://github.com/drubetti/node-big-xml",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jahewson/node-big-xml.git"
+    "url": "git@github.com:drubetti/node-big-xml.git"
   },
   "engines": {
     "node": ">=0.6.2"
   },
-  "licenses": {
-    "type": "MIT"
-  },
+  "license": "MIT",
   "dependencies": {
     "node-expat": ">=1.4.4"
   },
